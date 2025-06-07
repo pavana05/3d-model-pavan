@@ -5,7 +5,7 @@
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/pavans-projects-ef5089df/3d-model-by-pavan)
-[![Built By PAVAN](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](pavan-05.framer.ai)
+[![Built By PAVAN](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)]()
 
 ## Overview
 

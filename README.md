@@ -1,4 +1,6 @@
-# 3D Model Generator, Powered by 
+# 3D Model AI Generator, AUTHOR - [PAVAN](pavan-05.framer.ai)
+
+* the author of this website is PAVAN [visit the author website.](pavan-05.framer.ai)
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
@@ -9,22 +11,3 @@
 
 This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
 Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/pavans-projects-ef5089df/3d-model-by-pavan](https://vercel.com/pavans-projects-ef5089df/3d-model-by-pavan)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/yAbCEKw1J7i](https://v0.dev/chat/projects/yAbCEKw1J7i)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
